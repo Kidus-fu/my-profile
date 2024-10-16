@@ -22,6 +22,7 @@ document.head.appendChild(style);
               const body = document.querySelector("body");
               body.style.backgroundImage = `url(${props.img})`;
               
+              
             }}
             onMouseOut={() => {
                 const body = document.querySelector("body");

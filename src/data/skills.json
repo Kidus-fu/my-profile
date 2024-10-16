@@ -4,28 +4,32 @@
        "img":"https://th.bing.com/th/id/R.0cded3a3276425911d55a2552bf361bf?rik=eQn3sZmxuVN8dA&pid=ImgRaw&r=0",
        "Skills":88,
        "color":"warning",
-       "discrption":"I have a solid foundation in JavaScript, enabling me to create interactive web experiences. I effectively handle events like clicks and key presses, allowing me to respond to user actions dynamically. My skills include manipulating the DOM to change styles and content in real time. Additionally, I am exploring CSS animations and integrating them with JavaScript to enhance visual effects on the website. This combination of skills allows me to build engaging and responsive web applications that meet client needs."
+       "discrption":"I have a solid foundation in JavaScript, enabling me to create interactive web experiences. I effectively handle events like clicks and key presses, allowing me to respond to user actions dynamically. My skills include manipulating the DOM to change styles and content in real time. Additionally, I am exploring CSS animations and integrating them with JavaScript to enhance visual effects on the website. This combination of skills allows me to build engaging and responsive web applications that meet client needs.",
+       "category": "Web Development"
     },
     {
        "title":"React Js" ,
        "img":"https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg",
        "Skills":78,
        "color":"info",
-       "discrption":"I have a solid understanding of React, enabling me to build dynamic and interactive web applications. I am skilled in creating functional components, utilizing hooks like useEffect to manage side effects and component lifecycle events. I can effectively manipulate the DOM and apply styles, including defining CSS animations directly within components. My experience allows me to create responsive layouts and integrate various APIs seamlessly, ensuring a smooth user experience. I am committed to following best practices and keeping up with the latest advancements in the React ecosystem to deliver high-quality results."
+       "discrption":"I have a solid understanding of React, enabling me to build dynamic and interactive web applications. I am skilled in creating functional components, utilizing hooks like useEffect to manage side effects and component lifecycle events. I can effectively manipulate the DOM and apply styles, including defining CSS animations directly within components. My experience allows me to create responsive layouts and integrate various APIs seamlessly, ensuring a smooth user experience. I am committed to following best practices and keeping up with the latest advancements in the React ecosystem to deliver high-quality results.",
+       "category": "Web Development"
     },
     {
        "title":"HTML" ,
        "img":"https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg",
        "Skills":100,
        "color":"danger",
-       "discrption":"I possess a strong understanding of HTML, which is the foundation of web development. I am skilled in structuring web pages using semantic HTML elements, ensuring accessibility and search engine optimization. I can effectively create forms, tables, and multimedia content, enhancing user experience. My proficiency extends to integrating HTML with CSS and JavaScript, allowing for the development of dynamic and responsive layouts. I stay updated with best practices and standards to deliver clean, well-organized code that meets client requirements."
+       "discrption":"I possess a strong understanding of HTML, which is the foundation of web development. I am skilled in structuring web pages using semantic HTML elements, ensuring accessibility and search engine optimization. I can effectively create forms, tables, and multimedia content, enhancing user experience. My proficiency extends to integrating HTML with CSS and JavaScript, allowing for the development of dynamic and responsive layouts. I stay updated with best practices and standards to deliver clean, well-organized code that meets client requirements.",
+       "category": "Web Development"
     },
     {
        "title":"CSS" ,
        "img":"https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg",
        "Skills":98,
        "color":"primary",
-       "discrption":"I possess a strong understanding of CSS, enabling me to create visually appealing and responsive designs. My expertise includes using modern CSS techniques, such as Flexbox and Grid layout, to build user-friendly interfaces. I am also skilled in implementing animations and transitions to enhance the user experience, ensuring that websites are both aesthetically pleasing and functionally effective."
+       "discrption":"I possess a strong understanding of CSS, enabling me to create visually appealing and responsive designs. My expertise includes using modern CSS techniques, such as Flexbox and Grid layout, to build user-friendly interfaces. I am also skilled in implementing animations and transitions to enhance the user experience, ensuring that websites are both aesthetically pleasing and functionally effective.",
+       "category": "Web Development"
     },
     {
        "title":"Python" ,
@@ -33,19 +37,22 @@
        "Skills":84,
        "color":"warning",
        "discrption":"I have a solid foundation in Python, enabling me to develop robust applications and automate tasks effectively. My experience includes working with popular libraries and frameworks such as Flask and Django for web development, as well as data analysis using Pandas and NumPy. I am adept at writing clean, efficient code and leveraging Python's versatility to solve complex problems, ensuring high-quality deliverables for my clients."
+
     },
     {
        "title":"Django" ,
        "img":"https://www.svgrepo.com/show/349341/djangoproject.svg",
        "Skills":89,
        "color":"success",
-       "discrption":"I have extensive experience in using Django and Django REST Framework to build scalable and efficient web applications. My skills include designing RESTful APIs, managing database interactions, and implementing user authentication and authorization. I am proficient in leveraging Django's powerful features, such as its ORM and admin interface, to create robust backend solutions. With a focus on clean architecture and best practices, I ensure high performance and maintainability in all my projects."
+       "discrption":"I have extensive experience in using Django and Django REST Framework to build scalable and efficient web applications. My skills include designing RESTful APIs, managing database interactions, and implementing user authentication and authorization. I am proficient in leveraging Django's powerful features, such as its ORM and admin interface, to create robust backend solutions. With a focus on clean architecture and best practices, I ensure high performance and maintainability in all my projects.",
+       "category": "Web Development"
     },
     {
        "title":"GitHub" ,
        "img":"https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg",
        "Skills":95,
        "color":"secondary",
-       "discrption":"I have a strong understanding of Git and GitHub, allowing me to efficiently manage version control and collaborate effectively on projects. My skills include creating and managing repositories, branching and merging code, and utilizing Git workflows to streamline development processes. I am proficient in resolving conflicts and conducting code reviews, ensuring that code quality is maintained. With GitHub, I leverage its powerful features for continuous integration and deployment, enhancing collaboration and project visibility"
+       "discrption":"I have a strong understanding of Git and GitHub, allowing me to efficiently manage version control and collaborate effectively on projects. My skills include creating and managing repositories, branching and merging code, and utilizing Git workflows to streamline development processes. I am proficient in resolving conflicts and conducting code reviews, ensuring that code quality is maintained. With GitHub, I leverage its powerful features for continuous integration and deployment, enhancing collaboration and project visibility",
+       "category":"Version Control System"
     }
 ]

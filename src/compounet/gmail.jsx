@@ -61,7 +61,7 @@ const ContactForm = () => {
           <input
             type="text"
             name="name"
-            className="form-control"
+            className="form-control border border-dark"
             value={formData.name}
             onChange={handleChange}
             required
@@ -79,7 +79,7 @@ const ContactForm = () => {
           <input
             type="email"
             name="email"
-            className="form-control"
+            className="form-control border border-dark"
             value={formData.email}
             onChange={handleChange}
             required
@@ -90,7 +90,7 @@ const ContactForm = () => {
                   
                   <div class="col-12">
                     <label for="message" class="form-label">Message <span class="text-danger">*</span></label>
-                    <textarea class="form-control" id="message" name="message" rows="3"  value={formData.message}
+                    <textarea class="form-control border border-dark" id="message" name="message" rows="3"  value={formData.message}
             onChange={handleChange} required></textarea>
                   </div>
                   <div class="col-12">

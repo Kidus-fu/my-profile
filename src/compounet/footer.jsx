@@ -5,7 +5,7 @@ return(<>
     <div class="row">
       <div class="col-md-4">
         <h5>About Me</h5>
-        <p>Hi! I'm Panda, a passionate developer based in Ethiopia. I
+        <p>Hi! I'm Panda(kidus), a passionate developer based in Ethiopia. I
             specialize in full-stack development and have a keen interest in
             building responsive web applications.</p>
       </div>
@@ -25,14 +25,16 @@ return(<>
         class="nav "
        >
        <li><a href="https://www.instagram.com/kidus_st12/" className="btn btn-dark "><i className="fab fa-instagram text-danger fs-4 "></i></a></li>
-       <li><a href="" className="btn btn-dark "><i className="fab fa-linkedin text-primary fs-4 "></i></a></li>
-       </ul>
+       <li><a href="https://www.linkedin.com/in/hope-see-31b91730b/" className="btn btn-dark "><i className="fab fa-linkedin text-primary fs-4 "></i></a></li>
+       <li><a href="https://github.com/Kidus-fu" className="btn btn-dark "><i className="fab fa-github text-secondary fs-4 "></i></a></li>
+       </ul>kiduHack you computer by PandaPandaHack.txt
+
        
         
       </div>
     </div>
     <div class="text-center mt-4">
-    <p>© {new Date().getFullYear()} Panda. All rights reserved.</p>
+    <p>© {new Date().getFullYear()} Kidus(Panda). All rights reserved.</p>
     </div>
   </div>
 </footer>

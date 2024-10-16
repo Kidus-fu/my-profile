@@ -3,7 +3,7 @@ body {
   
 }
 
-.Naveber {
+.Navbar {
   background-color: rgba(0, 0, 0, 0.7);
   cursor: auto;
   backdrop-filter: blur(10px);
@@ -82,7 +82,7 @@ body {
     padding: 30px;
     border-radius: 40px;
     margin: 20px;
-    font-size: 20px;
+    
     box-shadow: 5px 0px rgb(110, 110, 110);
     background-color: rgba(100, 100, 100, 0.3);
   }
@@ -126,6 +126,8 @@ body {
 /* Basic styling */
 body {
     background-color: #f4f4f4;
+   
+    font-family:sans-serif;
     color: #333;
    
 }
@@ -214,5 +216,40 @@ body {
   }
   100%{
     transform: rotate(360deg);
+  }
+}
+.btn-dark:hover {
+  background-color: #555; /* Change this to your desired hover color */
+}
+#Filter{
+  background-color: rgba(var(--bs-dark-rgb), var(--bs-bg-opacity));
+}
+#Filter:hover{
+  animation: Filter 1s linear ;
+  animation-play-state: running;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+@keyframes Filter {
+  0%{
+    background-color: rgba(var(--bs-dark-rgb), var(--bs-bg-opacity));
+    
+    box-shadow: 2px 5px grey;
+    
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  50%{
+    padding:15px;
+    
+    box-shadow: 19px 3px rgb(161, 158, 158);
+  }
+  70%{
+    background-color: rgb(78, 78, 167);
+    
+    box-shadow: 109px 100px rgba(var(--bs-dark-rgb), var(--bs-bg-opacity));
+  }
+  100%{
+      background-color: blue;
+      
   }
 }
