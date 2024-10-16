@@ -14,8 +14,8 @@ function App() {
         <BrowserRouter >
         <Routes>
           <Route path="/" element={<Home />} />
-          <Route path="https://kidussurafel.vercel.app/Project/" element={<Project />} />
-          <Route path="https://kidussurafel.vercel.app/ContactMe/" element={<Countaut />} />
+          <Route path="/Project" element={<Project />} />
+          <Route path="/ContactMe" element={<Countaut />} />
         </Routes>
         </BrowserRouter>
         
